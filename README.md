@@ -3,7 +3,7 @@ retrieve a bible verse from a server?
 
 
 # Instructions
-Here's the API (Application Programming Interface) we'll use: https://getbible.net/api
+Here's the API (Application Programming Interface) we'll use: https://bible-api.com
 You'll need to `import` this python package: https://www.pythonforbeginners.com/requests/using-requests-in-python
 
 - Create a script called `verse_lookup.py`
