@@ -15,7 +15,7 @@ You'll need to `import` this python package: https://www.pythonforbeginners.com/
 
 # Questions to ask yourself:
 - How do I do something in a loop (over and over)?
-- How do I get user input (using the `input` function?
+- How do I get user input (using the `input` function)?
 - How do I send a GET request?
 - How do I parse JSON and extract the correct key?
 - How do I print the result to the screen?
