@@ -17,5 +17,6 @@ You'll need to `import` this python package: https://www.pythonforbeginners.com/
 - How do I do something in a loop (over and over)?
 - How do I get user input (using the `input` function)?
 - How do I send a GET request?
-- How do I parse JSON and extract the correct key?
+- How do I specify a GET parameter in the url?
+- How do I parse JSON and extract the correct value by its key?
 - How do I print the result to the screen?
